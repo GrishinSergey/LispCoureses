@@ -1,4 +1,4 @@
-# LispCoureses
+# LispCourses
 
 Here some my programs written on LISP. There are:
 
